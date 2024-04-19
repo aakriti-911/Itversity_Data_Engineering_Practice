@@ -9,3 +9,5 @@ Step 2 : Loading data into the tables - Script loads all the tables with relevan
 
 # Data Model :
 ![Data Model](https://github.com/aakriti-911/Itversity_Data_Engineering_Practice/assets/165250095/cfc3c244-70ce-498f-8478-678cef2d2760)
+
+Prolem Statement : Compute daily product revenue considering only complete or closed orders.
